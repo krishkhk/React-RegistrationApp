@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "first_name": "krishna",
+      "last_name": "krishna",
+      "email_id": "krish@gmail.com",
+      "password_id": "krishna123",
+      "id": 14
+    },
+    {
+      "first_name": "harikrishna",
+      "last_name": "kodam",
+      "email_id": "krishna@gmail.com",
+      "password_id": "krishna@123",
+      "id": 15
+    }
+  ]
+}
